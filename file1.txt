@@ -2,3 +2,4 @@ This is a file
 here is line 2
 this is line 3
 Now there are 4 lines
+This is the 5th line
