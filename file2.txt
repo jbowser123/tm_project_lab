@@ -1,0 +1,2 @@
+Here is the second file
+It shall be named file2
